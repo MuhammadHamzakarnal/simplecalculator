@@ -1,5 +1,5 @@
 {
-  "name": "simplecalculator",
+  "name": "m6ra55-simplecalculator",
   "version": "1.0.0",
   "description": "A simple calculator with Typescript Node.js and inquirer ",
   "main": "index.js",
